@@ -1,0 +1,2 @@
+This is a small project I started off in 2011 just for fun. The idea is to generate a random collage. This javascript jQuery library splits a rectangular area into multiple random sized rectangles. It's was originally inspired from "Mondrian Original" artwork (search Google for it), but idea was to use it as a way to feature images/news headlines on content based web sites. 
+Each time you refresh the HTML page you'd see a new random pattern.

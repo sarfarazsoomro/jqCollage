@@ -1,0 +1,12 @@
+.collage-main 
+{ 
+    margin: 0px auto;
+    border: 1px black solid;
+}
+
+.collage-item
+{
+  /*border: 1px blue solid;*/
+  position: absolute;
+}
+
